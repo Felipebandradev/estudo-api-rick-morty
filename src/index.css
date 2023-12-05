@@ -1,0 +1,26 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  background-color: #b3b1b1;
+}
+
+
+body,
+h1,
+h2,
+h3,
+p,
+hr {
+  margin: 0;
+  padding: 0;
+}
